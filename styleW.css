@@ -1,0 +1,9 @@
+.bg-img {
+
+    background-image: url(https://i.ibb.co/ChpZJnX/flag.jpg);
+    min-height: 1080px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
